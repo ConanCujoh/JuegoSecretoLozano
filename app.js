@@ -1,4 +1,4 @@
-/*
+
 let numeroSecreto = 0;
 let intentos = 0;
 let listaNumerosSorteados = [];
@@ -75,24 +75,6 @@ function reiniciarJuego() {
 }
 
 condicionesIniciales();
-*/
-let lenguajesDeProgramacion = ['JavaScript', 'C', 'C++', 'Kotlin', 'Python']
-lenguajesDeProgramacion.push('Java');
-lenguajesDeProgramacion.push('ruby');
-lenguajesDeProgramacion.push('GoLang');
 
-
-function mostrarLista(){
-    console.log(lenguajesDeProgramacion);
-}
-
-function mostrarListaInverso(){
-lenguajesDeProgramacion.reverse();
-console.log(lenguajesDeProgramacion);
-}
-function promedioLista(){
-    
-}
-mostrarLista();
 
 
